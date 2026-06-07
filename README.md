@@ -6,7 +6,7 @@ Proje kapsamında gerçekleştirilen veri analitiği süreçleri, tanımsal ista
 
 ## 🔗 Proje Bağlantıları
 * **Yayınlanmış Canlı Rapor (GitHub Pages):** [Canlı Web Sitesini Açmak İçin Tıklayın] (https://esmaozturkmen.github.io/STEAMVERIANALIZI-VABP2/)
-* **GitHub Kaynak Deposu (Repository):** [Proje Dosyalarına Gitmek İçin Tıklayın](https://github.com/ESMAOZTURKMEN/STEAMVERIANALIZI-VABP2)
+* **GitHub Kaynak Deposu (Repository):** [Proje Dosyalarına Gitmek İçin Tıklayın] (https://github.com/ESMAOZTURKMEN/STEAMVERIANALIZI-VABP2)
 
 ## 📊 Veri Seti ve Değişkenler
 Analizde kullanılan `steam.csv` veri seti toplam 27.075 satır ve 18 sütundan oluşmaktadır. İşlenen temel değişkenler şunlardır:
